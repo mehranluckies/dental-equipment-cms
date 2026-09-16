@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_product_specification_products",
+  "info": {
+    "displayName": "Product"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    },
+    "unit": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_product_product_badges",
+  "info": {
+    "displayName": "Product Badge",
+    "icon": "cast"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
